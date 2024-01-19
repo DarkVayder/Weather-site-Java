@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-image: url('Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
